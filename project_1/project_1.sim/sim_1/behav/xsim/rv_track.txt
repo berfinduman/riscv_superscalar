@@ -1,0 +1,4 @@
+A path REGMEM:  x0 0x0000000000000000--         0 
+B path REGMEM: x6 0x0000000000000000--         0 
+MEM:  MemWrite:  Write Data:0x00000000000000xx  A (hex,dec): 0x0000000000000000 --          0 
+ 

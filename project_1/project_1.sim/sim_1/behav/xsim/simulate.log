@@ -1,0 +1,6 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Write completed
+Write completed
+Write completed
+$stop called at time : 105 ns : File "C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sim_1/new/TOP_tb.sv" Line 16

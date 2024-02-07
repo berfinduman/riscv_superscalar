@@ -1,0 +1,24 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sim_1/new/TOP_tb.sv,1705607666,systemVerilog,,,,Main_tb,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/ALUs.sv,1705426999,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/DtoE_stage.sv,,aluA;aluB,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/DtoE_stage.sv,1705525412,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/EtoW_stage.sv,,DtoE_stage,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/EtoW_stage.sv,1705525444,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/Extend1.sv,,EtoW_stage,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/Extend1.sv,1705396133,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/Extend2.sv,,extendA,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/Extend2.sv,1705275643,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/FtoD_stage.sv,,extendB,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/FtoD_stage.sv,1705604644,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/PC_target.sv,,FtoD_stage,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/PC_target.sv,1705416637,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/PcPlus8.sv,,PCTargetA_E;PCTargetB_E,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/PcPlus8.sv,1705491387,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/Pcounter.sv,,PcPlus8,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/Pcounter.sv,1705525413,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/TOP_mod.sv,,Pcounter,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/TOP_mod.sv,1705610348,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/controller.sv,,TOP_mod,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/controller.sv,1705610135,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/data_mem.sv,,Alu_Decoder;controller,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/data_mem.sv,1705610081,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/encoder_muxs.sv,,data_memory,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/encoder_muxs.sv,1705609409,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/hazard_unit.sv,,forward_muxA1;forward_muxA2;forward_muxB1;forward_muxB2;mux_aluA2;mux_aluB2,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/hazard_unit.sv,1705604648,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/inst_fetch.sv,,hazard_unit,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/inst_fetch.sv,1705603635,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/inst_mem.sv,,instruction_fetch,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/inst_mem.sv,1705496416,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/register_file.sv,,inst_mem,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/register_file.sv,1705608688,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/result_muxs.sv,,register_file,,,,,,,,
+C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sources_1/new/result_muxs.sv,1705437671,systemVerilog,,C:/Xilinx/risc5/pipelined_cycle/superscalar/project_1/project_1.srcs/sim_1/new/TOP_tb.sv,,mux_resultA;mux_resultB,,,,,,,,
